@@ -6,7 +6,7 @@ from utils import submitNew, get_info_from_id, deleteOne
 import numpy as np
 
 st.set_page_config(layout="wide")
-st.title("Face Recognition App")
+st.title("Blackdot Face Recognition")
 st.write("This app is used to add new faces to the dataset")
 
 menu = ["Adding","Deleting", "Adjusting"]
