@@ -79,4 +79,4 @@ streamlit run Tracking.py
 4. Deployed app on Streamlit Cloud. [Click here](https://vincentblackdot-face-recogition-streamlit-tracking-knrkn2.streamlit.app/) to watch a demo of the app.
 
 ## Contact
-If you have any questions, feel free to contact me via email: `vincentsiame@outlook.com`
+If you have any questions, feel free to contact me via email: `elishakidenge@gmail.com`
